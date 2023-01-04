@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @danalghamdi
 - 👀 I’m interested in Front-end developing and Digital marketing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Digital marketing and Flutter
 - 📫 You can reach me via this Email: danalxp50@gmail.com
 
 <!---
